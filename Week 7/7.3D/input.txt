@@ -1,0 +1,53 @@
+4
+Illuminate
+Shawn Mendes
+images/illuminate.jpg
+6
+Mercy
+musics/mercy.mp3
+Treat You Better
+musics/treat_you_better.mp3
+Patience
+musics/patience.mp3
+Bad Reputation
+musics/bad_reputation.mp3
+Understand
+musics/understand.mp3
+Honest
+musics/honest.mp3
+Witness
+Katy Perry
+images/witness.jpg
+4
+Roulette
+musics/roulette.mp3
+Mind Maze
+musics/mind_maze.mp3
+Tsunami
+musics/tsunami.mp3
+Miss You More
+musics/miss_you_more.mp3
+Bigger Love
+John Legend
+images/bigger_love.jpg
+5
+Wild
+musics/wild.mp3
+Slow Cooker
+musics/slow_cooker.mp3
+Focused
+musics/focused.mp3
+Remember Us
+musics/remember_us.mp3
+Never Break
+musics/never_break.mp3
+Nine Track Mind
+Charlie Puth
+images/nine_track_mind.jpg
+3
+One Call Away
+musics/one_call_away.mp3
+Dangerously
+musics/dangerously.mp3
+We Don't Talk Anymore
+musics/we_dont_talk_anymore.mp3
